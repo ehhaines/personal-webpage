@@ -1,0 +1,27 @@
+.eh-github:hover {
+  color: black;
+  transition: 0.2s;
+  cursor: pointer;
+}
+
+.eh-linkedin:hover {
+  color: rgb(0, 114, 177);
+  transition: 0.2s;
+  cursor: pointer;
+}
+
+.eh-twitter:hover {
+  color: rgb(0, 172, 238);
+  transition: 0.2s; 
+  cursor: pointer;
+}
+
+.eh-blur {
+  background-color: rgba(255, 255, 255, .15);  
+  backdrop-filter: blur(7px);
+  display: inline-block;
+}
+
+.eh-display {
+  font-size: 1.5rem;
+}
