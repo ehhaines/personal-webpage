@@ -1,0 +1,5 @@
+.eh-house:hover {
+  color: black;
+  transition: 0.2s;
+  cursor: pointer;
+}

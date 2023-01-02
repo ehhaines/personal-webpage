@@ -2,3 +2,9 @@
   background-color: rgba(255, 255, 255, .15);  
   backdrop-filter: blur(3px);
  }
+
+ .eh-home:hover {
+  color: black;
+  transition: 0.2s;
+  cursor: pointer;
+ }
