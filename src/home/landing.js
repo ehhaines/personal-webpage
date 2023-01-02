@@ -21,9 +21,9 @@ const Landing = () => {
           <br></br>
           <br></br>
           <br></br>
-          <div>
-            <button className="btn text-secondary eh-display" onClick={() => nav('/about')}>about</button>
-            <button className="btn text-secondary eh-display" onClick={() => nav('/blog')}>blog</button>
+          <div className="text-secondary">
+            <span className="eh-display mx-3" onClick={() => nav('/about')}>about</span>
+            <span className="eh-display mx-3" onClick={() => nav('/blog')}>blog</span>
           </div>
         </div>
       </div>
